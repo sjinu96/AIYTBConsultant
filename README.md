@@ -1,2 +1,4 @@
 # CapstoneUOS
-서울시립대학교 수학과 캡스톤 디자인
+* A repository for capstone projects in University of Seoul
+* People: Jungrae Kim(Prof.), Jihyeong Ko, Yanggi Kim, Jinsoo Park, Namin Ahn
+
