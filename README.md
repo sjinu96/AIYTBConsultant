@@ -1,4 +1,4 @@
 # CapstoneUOS
-* 서울시립대학교 수학과 캡스톤디자인 프로젝트
-* 기간: 2020.09\~2020.12
-* 사람들: 고지형, 김양기, 박진수, 안나민
+capstone projects from August 2020 to December 2020 in the department of mathematics, University of Seoul
+Advisor: Jungrae Kim
+Participants: Jihyeong Ko, Yanggi Kim, Jinsu Park, Namin Ahn
