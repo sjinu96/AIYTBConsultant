@@ -4,7 +4,7 @@
 * 2020년 9월~2020년 12월
 ## 👀디렉토리 구조
 ```
-YTBTrendPrediction
+YTBChannelConsultant
 ├─data
 │  ├─raw
 |  └─train_raw.csv
