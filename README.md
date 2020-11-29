@@ -5,12 +5,12 @@
 ## 👀디렉토리 구조
 ```
 YTBChannelConsultant
-├─data
+├─data                # 데이터 저장 폴더
 │  ├─raw
 |  └─train_raw.csv
-├─etc
-├─model
-└─preprocessing
+├─etc                 # 노트북 커널, 각종 분석 플롯 등이 저장된 폴더
+├─model               # 모델 모듈 저장 폴더
+└─preprocessing       # 전처리 모듈 저장 폴더
 ```
 ## 👩‍👧‍👦프로젝트 인원
 * 프로젝트 참여자: 고지형(본인), 김양기, 박진수, 안나민
