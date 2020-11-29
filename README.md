@@ -4,7 +4,7 @@
 * 2020년 9월~2020년 12월
 ## 👀디렉토리 구조
 ```
-YTBChannelConsultant
+AIYTBConsultant
 ├─data                # 데이터 저장 폴더
 │  ├─raw              # 수집한 raw 데이터가 저장되는 폴더
 |  └─train_raw.csv    # 학습에 활용되는 데이터
