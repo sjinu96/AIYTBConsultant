@@ -6,8 +6,8 @@
 ```
 YTBChannelConsultant
 ├─data                # 데이터 저장 폴더
-│  ├─raw
-|  └─train_raw.csv
+│  ├─raw              # 수집한 raw 데이터가 저장되는 폴더
+|  └─train_raw.csv    # 학습에 활용되는 데이터
 ├─etc                 # 노트북 커널, 각종 분석 플롯 등이 저장된 폴더
 ├─model               # 모델 모듈 저장 폴더
 └─preprocessing       # 전처리 모듈 저장 폴더
