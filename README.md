@@ -22,5 +22,5 @@ AIYTBConsultant
 * Advisor: Prof. Jungrae Kim
 * Participants: Jihyeong Ko, Yanggi Kim, Jinsu Park, Namin Ahn
 
-## 진행 상황
+## 주요 진행 상황
 ![](https://media.discordapp.net/attachments/784385773839319070/785540543807225856/Screen_Shot_2020-12-08_at_12.52.07_AM.png)
