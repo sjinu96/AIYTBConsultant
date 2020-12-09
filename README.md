@@ -24,6 +24,9 @@ AIYTBConsultant
 
 ## 주요 진행 상황
 * 데이터 구조
+
 ![](https://github.com/iloveslowfood/AIYTBConsultant/blob/master/etc/Presentation/Data%20Structure.png)  
-* 모델: LSTM, ARIMA
+
+* 모델: LSTM, ARIMA  
+
 ![](https://media.discordapp.net/attachments/784385773839319070/785540543807225856/Screen_Shot_2020-12-08_at_12.52.07_AM.png)
