@@ -1,5 +1,13 @@
 # 🤡AI YouTube Consultant
 * 본 저장소는 서울시립대학교 자연과학대학 수학과에서 진행한 캡스톤디자인 프로젝트를 정리하기 위한 공간입니다.
+
+## 주요 진행 상황
+* 데이터 구조  
+![](https://github.com/iloveslowfood/AIYTBConsultant/blob/master/etc/Presentation/Data%20Structure.png)  
+
+* 모델: LSTM, ARIMA  
+![](https://media.discordapp.net/attachments/784385773839319070/785540543807225856/Screen_Shot_2020-12-08_at_12.52.07_AM.png)
+
 ## 🏃‍♂️프로젝트 기간
 * 2020.09~2020.12
 
@@ -22,11 +30,3 @@ AIYTBConsultant
 * Advisor: Prof. Jungrae Kim
 * Participants: Jihyeong Ko, Yanggi Kim, Jinsu Park, Namin Ahn
 
-## 주요 진행 상황
-* 데이터 구조
-
-![](https://github.com/iloveslowfood/AIYTBConsultant/blob/master/etc/Presentation/Data%20Structure.png)  
-
-* 모델: LSTM, ARIMA  
-
-![](https://media.discordapp.net/attachments/784385773839319070/785540543807225856/Screen_Shot_2020-12-08_at_12.52.07_AM.png)
