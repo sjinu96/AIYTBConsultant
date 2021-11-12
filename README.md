@@ -58,7 +58,7 @@ AIYTBConsultant
 └─preprocessing       # 전처리 모듈 저장 폴더
 ```
 ## 👩‍👧‍👦프로젝트 인원
-* 프로젝트 참여자: 고지형(본인), 김양기, 박진수, 안나민
+* 프로젝트 참여자: 고지형, 김양기, 박진수, 안나민
 * 담당 교수: 김정래
 ---
 * Capstone projects in the department of mathematics, University of Seoul
